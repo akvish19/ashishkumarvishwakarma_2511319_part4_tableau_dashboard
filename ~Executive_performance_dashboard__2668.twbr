@@ -1384,7 +1384,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='30'>
-    <window class='worksheet' maximized='true' name='Sales trend view'>
+    <window class='worksheet' name='Sales trend view'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1430,7 +1430,7 @@
       </cards>
       <simple-id uuid='{65F7815E-3FB2-4CA7-8D19-6A0DEAACBFD2}' />
     </window>
-    <window class='worksheet' name='Category profitability view'>
+    <window class='worksheet' maximized='true' name='Category profitability view'>
       <cards>
         <edge name='left'>
           <strip size='160'>
